@@ -1,1 +1,6 @@
-# rp_antiafk
+Very simple to install
+
++ server.cfg
+
+ + ensure rp_antiafk
+ 
