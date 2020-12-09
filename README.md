@@ -1,4 +1,4 @@
-A simple script to kick everyone who stay away from keyboard in your server.
+A simple script to kick everyone who stay away from keyboard in your Five M server.
 
 Very simple to install:
 
